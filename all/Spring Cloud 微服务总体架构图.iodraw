@@ -56,7 +56,7 @@
           <mxGeometry x="520" y="67" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-273" value="Nacos&lt;br&gt;服务治理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="300" width="90" height="90" as="geometry" />
+          <mxGeometry x="1000" y="289" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-274" value="Nacos&lt;br&gt;配置中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1000" y="480" width="90" height="90" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-278" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="759" y="700" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-280" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-280" value="RabbitMQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-281" value="" style="group" parent="1" vertex="1" connectable="0">
