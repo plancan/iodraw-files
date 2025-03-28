@@ -28,9 +28,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-248" value="业务服务群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="476" y="345.25" width="200" height="94.75" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-249" value="业务服务群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="717" y="308.5" width="200" height="91.5" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-250" value="Sentinel&lt;br&gt;流量控制" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="70" y="289" width="90" height="90" as="geometry" />
         </mxCell>
@@ -42,9 +39,6 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-258" value="活动管理模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="491.5" y="380.75" width="170" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-261" value="活动参与模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="732.5" y="344" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-263" value="SpringCloudGateway&lt;br&gt;服务网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="479" y="192" width="210" height="52" as="geometry" />
