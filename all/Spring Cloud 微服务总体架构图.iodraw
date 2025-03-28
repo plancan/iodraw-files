@@ -76,14 +76,8 @@
             <mxPoint x="170.24" y="399.34000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-294" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=22.43;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="95" y="650" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-295" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=22.43;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="564.5" y="650" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-296" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=22.43;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1025" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-298" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=16.84;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="564.5" y="258" width="40" height="31" as="geometry" />
