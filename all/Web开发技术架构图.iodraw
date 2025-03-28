@@ -128,10 +128,7 @@
           <mxGeometry x="230" y="493" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-970" value="云端文件存储" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=14;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="493" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-972" value="ES" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="720" y="493" width="60" height="80" as="geometry" />
+          <mxGeometry x="570" y="498" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-973" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#663300;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="181" y="600" width="649" height="70" as="geometry" />
