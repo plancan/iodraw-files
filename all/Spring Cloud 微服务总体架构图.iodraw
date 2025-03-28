@@ -140,10 +140,10 @@
           <mxGeometry x="491.5" y="374" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="4-PhhxaGEq2TArsTcwoE-16" value="业务服务群" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="206" height="90.5" as="geometry" />
+          <mxGeometry x="234" y="344" width="206" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="4-PhhxaGEq2TArsTcwoE-17" value="活动报名模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="208" y="370" width="170" height="46" as="geometry" />
+        <mxCell id="4-PhhxaGEq2TArsTcwoE-17" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="252" y="374" width="170" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
