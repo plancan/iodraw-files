@@ -40,7 +40,7 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-252" value="Hystrix&lt;br&gt;容错保护" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="70" y="500.5" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-253" value="Service&amp;nbsp;A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3zW76zUc4abTS6v-kVaw-253" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="249.5" y="344" width="170" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-256" value="Service&amp;nbsp;A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#003B00;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
@@ -132,6 +132,12 @@
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-299" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.55;dx=27.77;direction=south;notch=0;strokeWidth=1;fillColor=#D4D4D4;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="565" y="130" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PhhxaGEq2TArsTcwoE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-247" target="3zW76zUc4abTS6v-kVaw-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4-PhhxaGEq2TArsTcwoE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3zW76zUc4abTS6v-kVaw-247" target="3zW76zUc4abTS6v-kVaw-247">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
