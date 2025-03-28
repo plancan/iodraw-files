@@ -130,9 +130,6 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-970" value="文件存储" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=14;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="493" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-971" value="ES" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="493" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-972" value="ES" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=center;fontSize=15;fontStyle=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="720" y="493" width="60" height="80" as="geometry" />
         </mxCell>
