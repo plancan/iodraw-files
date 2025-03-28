@@ -88,15 +88,6 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-267" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#63BDEB;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="697" y="67" width="130" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-268" value="Spring&amp;nbsp;Cloud&amp;nbsp;Bus&lt;br&gt;消息总线" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="205" y="575" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-269" value="Spring&amp;nbsp;Cloud&amp;nbsp;Task&lt;br&gt;任务调度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="398" y="575" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-270" value="Spring&amp;nbsp;Cloud&amp;nbsp;Data&amp;nbsp;Flow&lt;br&gt;大数据操作" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="592" y="575" width="170" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-271" value="Spring&amp;nbsp;Cloud&amp;nbsp;Stream&lt;br&gt;数据流操作" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#18C9A6;fontSize=14;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="785" y="575" width="170" height="60" as="geometry" />
         </mxCell>
@@ -109,20 +100,8 @@
         <mxCell id="3zW76zUc4abTS6v-kVaw-274" value="Config&lt;br&gt;配置管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#00B300;fontSize=14;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1000" y="500" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-275" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="955" y="700" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-276" value="Git" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-275" vertex="1">
-          <mxGeometry x="60" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-277" value="Git" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-275" vertex="1">
-          <mxGeometry width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-278" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="759" y="700" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zW76zUc4abTS6v-kVaw-279" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
-          <mxGeometry x="60" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zW76zUc4abTS6v-kVaw-280" value="MQ" style="shape=datastore;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ED6D18;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;" parent="3zW76zUc4abTS6v-kVaw-278" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
